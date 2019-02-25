@@ -83,7 +83,7 @@ programmer_hash =
 		}
  }
 
-programmer_hash[:yukihiro_matsumoto] => {
+programmer_hash :yukihiro_matsumoto => {
 :known_for => "Ruby",
 :languages =>
 	["LISP", "C"]
